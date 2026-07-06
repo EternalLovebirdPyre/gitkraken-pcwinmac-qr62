@@ -1,4 +1,4 @@
-# 
+# Natif GitKraken thèmes pour Mac OS | Ultime GitKraken thèmes pour PC Windows. Avec éditeur fractionné et support Gitflow — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
